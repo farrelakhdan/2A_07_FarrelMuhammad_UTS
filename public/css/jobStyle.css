@@ -1,0 +1,18 @@
+.section-two{
+    min-height: auto;
+    background: #23252B;
+    margin-top: 70px;
+  }
+  
+  .section-two h2{
+    color: #fff;
+    font-size: 3em;
+    font-weight: 700;
+    margin: 30px 0;
+  }
+  
+  .section-two p{
+    color: #fff;
+    font-size: 1em;
+    margin: 30px 0;
+  }
